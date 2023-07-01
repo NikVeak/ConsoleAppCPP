@@ -1,0 +1,22 @@
+Lada-Priora Motor Oil-filter AvtoVAZ 299
+VAZ-2109 Exhaust-system Silencer AvtoVAZ 2999
+Toyota-Camry Brake-system Brake-disks Toyota-Motor 3299
+Lada-Priora Brake-system Brake-disks AvtoVAZ 1299
+VAZ-2107 Brake-system Brake-disks AvtoVAZ 999
+VAZ-2114 GSB Glutch-driven-disk AvtoVAZ 899
+Lada-Priora Motor Generator AvtoVAZ 6999
+Lada-Priora Motor GRM AvtoVAZ 4599
+Lada-Priora Motor Pistones AvtoVAZ 7099
+Lada-Priora Suspension Flavor AvtoVAZ 1999
+Lada-Priora Brake-system Calipers AvtoVAZ 3199
+Toyota-Larvin-5 GSB Glutch-driven-disk Toyota-Motor 2999
+Ford-Focus Suspension Oil-seals Ford 1099
+VAZ-2110 Brake-system Cylinder 489
+Lada-Vesta Brake-system Spring 499
+Datsun-ON-DO Motor Generator AvtoVAZ 3699
+VAZ-2105 GSB Glutch-driven-disk 799
+Lada-NIVA Suspension Support-rack 2299
+Shevrolet-NIVA Suspension Ball-rack 2899
+Nissan-Kashkai Exhaust-system Silencer Nissan-Motor 4999
+Hynday-Solaris Suspension Oil-seals Hynday 2099
+Toyota-Crown Electronic-system Sensor-panel Toyota-Motor 7899
